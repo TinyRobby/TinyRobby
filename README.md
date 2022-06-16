@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TinyRobby
-- 👀 I’m interested in C++ and computer programing!
-- 🌱 I’m currently learning C/C++
+- 👀 I’m interested in C++ and Makeing a programming language!
+- 🌱 I’m currently learning Advanced Java
 - 💞️ I’m looking to collaborate on lots of things
 - 📫 How to reach me is to email @ spahatticat246@gmail.com and you can find me on youtube as the one and only spahatticat
 
